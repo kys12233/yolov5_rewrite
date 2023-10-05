@@ -1,0 +1,8 @@
+train: ./MyDatasets/images/train
+val: ./MyDatasets/images/val
+# train: ./MyDatasets/dataSet_path/train.txt
+# val: ./MyDatasets/dataSet_path/val.txt
+# test: ./MyDatasets/dataSet_path/test.txt
+
+nc: 2
+names: ["dog", "cat"]
